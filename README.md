@@ -9,3 +9,7 @@ Virtual Dress Link:
 2.https://github.com/levindabhi/Self-Correction-Human-Parsing-for-ACGPN
 
 3.https://github.com/PeikeLi/Self-Correction-Human-Parsing
+
+
+## Instant Background change & Blur MEdium 
+Link: https://kps-shelva.medium.com/instant-background-blur-using-python-967e29f74a52
